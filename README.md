@@ -1,5 +1,7 @@
 # uTorrent Puppet Module for Boxen
 
+Install uTorrent (Bittorrent client) through Github Boxen.
+
 ## Usage
 
 ```puppet
